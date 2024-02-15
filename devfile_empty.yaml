@@ -1,6 +1,2 @@
 schemaVersion: 2.2.0
-projects:
-  - name: testo
-    git:
-      remotes:
-        origin: 'https://github.com/gquadros/testo.git'
+
